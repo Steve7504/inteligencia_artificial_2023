@@ -1,6 +1,6 @@
 ### Perfil Académico 
 
-![Foto_Perfil](alumnos/Esteban_Marin/imagenes/Foto.jpg)
+![Foto_Perfil](https://github.com/Steve7504/inteligencia_artificial_2023/blob/main/alumnos/Esteban_Marin/imagenes/Foto.jpg)
 
 
 ```python
